@@ -1,0 +1,1 @@
+print(sum(i**2 for in range(1,5)))
